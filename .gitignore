@@ -1,0 +1,11 @@
+.env
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.pytest_cache/
+CLAUDE.md
